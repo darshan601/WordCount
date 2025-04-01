@@ -1,0 +1,14 @@
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/bin/Debug/net8.0/WordCount
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/bin/Debug/net8.0/WordCount.deps.json
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/bin/Debug/net8.0/WordCount.runtimeconfig.json
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/bin/Debug/net8.0/WordCount.dll
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/bin/Debug/net8.0/WordCount.pdb
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/obj/Debug/net8.0/WordCount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/obj/Debug/net8.0/WordCount.AssemblyInfoInputs.cache
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/obj/Debug/net8.0/WordCount.AssemblyInfo.cs
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/obj/Debug/net8.0/WordCount.csproj.CoreCompileInputs.cache
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/obj/Debug/net8.0/WordCount.dll
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/obj/Debug/net8.0/refint/WordCount.dll
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/obj/Debug/net8.0/WordCount.pdb
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/obj/Debug/net8.0/WordCount.genruntimeconfig.cache
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/obj/Debug/net8.0/ref/WordCount.dll

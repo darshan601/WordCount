@@ -1,0 +1,5 @@
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/bin/Release/net8.0/publish/WordCount
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/bin/Release/net8.0/publish/WordCount.dll
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/bin/Release/net8.0/publish/WordCount.deps.json
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/bin/Release/net8.0/publish/WordCount.runtimeconfig.json
+/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/bin/Release/net8.0/publish/WordCount.pdb

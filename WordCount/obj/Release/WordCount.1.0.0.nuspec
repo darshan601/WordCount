@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>WordCount</id>
+    <version>1.0.0</version>
+    <authors>WordCount</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/obj/DotnetToolSettings.xml" target="tools/net8.0/any/DotnetToolSettings.xml" />
+    <file src="/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/bin/Release/net8.0/publish/WordCount.dll" target="tools/net8.0/any/WordCount.dll" />
+    <file src="/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/bin/Release/net8.0/publish/WordCount.deps.json" target="tools/net8.0/any/WordCount.deps.json" />
+    <file src="/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/bin/Release/net8.0/publish/WordCount.runtimeconfig.json" target="tools/net8.0/any/WordCount.runtimeconfig.json" />
+    <file src="/Users/darshanuttammistry/RiderProjects/WordCount/WordCount/bin/Release/net8.0/publish/WordCount.pdb" target="tools/net8.0/any/WordCount.pdb" />
+  </files>
+</package>
